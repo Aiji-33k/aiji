@@ -10,7 +10,7 @@
 * GitHub pour partager mes créations.
 
 ### 📁 Mes projets actuels :
-- [ ] ⏰ **Horloge Programme** : Mon premiers programes. 
+- [ ] ⏰ **Horloge Programme** : Mon premiers programe. 
 - [ ] 🚧 *D'autres pages arrivent bientôt...*
 
 ---
