@@ -10,7 +10,7 @@
 * GitHub pour partager mes créations.
 
 ### 📁 Mes projets actuels :
-- [ ] ⏰ **Horloge Programme** : Mhttps://github.com/Aiji-33k/Aiji/blob/main/index.html. 
+- [ ] ⏰ **Horloge Programme** : https://github.com/Aiji-33k/Aiji/blob/main/index.html. 
 - [ ] 🚧 *D'autres pages arrivent bientôt...*
 
 ---
